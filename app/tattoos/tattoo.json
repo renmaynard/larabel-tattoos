@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "description":"The first cyber sigilism tattoo I ever did, this one is a wrap around from the shoulder down to the wrist.",
+        "tattoo":"images/armwrap-tattoo.jpg" 
+    },
+    {
+        "id": 2,
+        "description":"A funny little tattoo of a black cat from my flash sheet inspired by 'cursed cat' memes.",
+        "tattoo":"images/blackcat-tattoo.jpg"
+    },
+    {
+        "id": 3,
+        "description":"The perfect tattoo for this bookworm client, he sent me a couple of his favourite book titles to incorporate as well.",
+        "tattoo":"images/books-tattoo.jpg"
+    },
+    {
+        "id": 4,
+        "description":"From one of my favourite flash sheets, this is my take on the temperance tarot card.",
+        "tattoo":"images/card-tattoo.jpg"
+    },
+    {
+        "id": 5,
+        "description":"Inspired by space couch, but it's really just a regular couch",
+        "tattoo":"images/couch-tattoo.jpg" 
+    },
+    {
+        "id": 6,
+        "description":"This forearm piece is one of many japanese-style inspired tattoos apart of a patchwork sleeve. ",
+        "tattoo":"images/cranes-tattoo.jpg"
+    },
+    {
+        "id": 7,
+        "description":"A tough spot for a first tattoo, this client went for a piece to show their passion for boxing.",
+        "tattoo":"images/cross-tattoo.jpg"
+    },
+    {
+        "id": 8,
+        "description":"My take on the cyber sigilism style, mixed with the client's request to incorporate a feminine figure.",
+        "tattoo":"images/demonic-tattoo.jpg"
+    },
+    {
+        "id": 9,
+        "description":"Can't go wrong with a classic Doberman tattoo, so this client requested it as a cover-up.",
+        "tattoo":"images/dog-tattoo.jpg" 
+    },
+    {
+        "id": 10,
+        "description":"I absolutely love these eyes that drip into eachother. This piece was claimed almost instantly when I posted my first abstract flash page",
+        "tattoo":"images/eyes-tattoo.jpg"
+    },
+    {
+        "id": 11,
+        "description":"A plastic daisy in flames inspired by a song from my favourite band, this tattoo depicts Avenged Sevenfold's 'Mattel'",
+        "tattoo":"images/fireflower.jpg"
+    },
+    {
+        "id": 12,
+        "description":"My first, more traditional, japanese-style koi fish tattoo.",
+        "tattoo":"images/fish-tattoo.jpg"
+    },
+    {
+        "id": 13,
+        "description":"Gorgeous shoulder-collarbone floral as this client's first tattoo!",
+        "tattoo":"images/flowers-tattoo.jpg" 
+    },
+    {
+        "id": 14,
+        "description":"More from the japanese sleeve, here is some cherry blossom filler and a fan.",
+        "tattoo":"images/forearm-tattoo.jpg"
+    },
+    {
+        "id": 15,
+        "description":"This cute frog on a mushroom house is one of my original nature flash designs",
+        "tattoo":"images/frogmushroom-tattoo.jpg"
+    },
+    {
+        "id": 16,
+        "description":"Just decorating the hand with some cute, dainty finger tattoos and a quote.",
+        "tattoo":"images/hand-tattoo.jpg"
+    },
+    {
+        "id": 17,
+        "description":"This client simply came to me with an idea, and by just listening to them I was able to create the exact tattoo he had envisioned.",
+        "tattoo":"images/hourglass-tattoo.jpg" 
+    },
+    {
+        "id": 18,
+        "description":"A classic knife customized with the eyes of a favourite anime character",
+        "tattoo":"images/knife-tattoo.jpg"
+    },
+    {
+        "id": 19,
+        "description":"With two pretty koi fish dancing, this bicep tattoo was made to fit perfectly while doubling as a cover-up.",
+        "tattoo":"images/koifish-tattoo.jpg"
+    },
+    {
+        "id": 20,
+        "description":"This is my take on a Medusa tattoo, put into a tarot card as requested by the client.",
+        "tattoo":"images/medusa-tattoo.jpg"
+    },
+    {
+        "id": 21,
+        "description":"This sentimental pet tattoo is the pawprint of a beloved family dog who passed away.",
+        "tattoo":"images/paw-tattoo.jpg" 
+    },
+    {
+        "id": 22,
+        "description":"A client's custom requests for a skull smoking a joint while wearing a top hat.",
+        "tattoo":"images/skull-tattoo.jpg"
+    },
+    {
+        "id": 23,
+        "description":"This client told me in his past life he was a templar, so we decided to put a templar sword on his arm with his initials in the handle.",
+        "tattoo":"images/sword-tattoo.jpg"
+    },
+    {
+        "id": 24,
+        "description":"Wearing your heart on your sleeve looks a little different when it is red and black and made out of waves.",
+        "tattoo":"images/waveheart-tattoo.jpg"
+    },
+    {
+        "id": 25,
+        "description":"These grunge fairy wings are the first big back piece I have done.",
+        "tattoo":"images/wings-tattoo.jpg" 
+    }
+    
+]
