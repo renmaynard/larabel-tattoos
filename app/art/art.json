@@ -1,22 +1,12 @@
 [
     {
-        "id": 1,
-        "description":"I love gifting people art, so for my brother's birthday I painted him his favourite Star Wars character",
-        "art":"images/asoka-art.jpg" 
+        "id":1,
+        "description":"Acrylic painting of the beach",
+        "art":"/images/beach-art.png"
     },
     {
-        "id": 2,
-        "description":"An acrylic painting I did on canvas titled 'Secretariat by The Moss'",
-        "art":"images/beach-art.JPG"
-    },
-    {
-        "id": 3,
-        "description":"A digital drawing of a beautiful raven with wildflowers as a custom request.",
-        "art":"images/crow-art.jpg"
-    },
-    {
-        "id": 4,
-        "description":"This acrylic painting was a commissioned piece for an old highschool teacher.",
-        "art":"images/northernlights-art.jpg"
+        "id":2,
+        "description":"Drawing of a crow",
+        "art":"/images/crow-art.png"
     }
 ]

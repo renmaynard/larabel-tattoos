@@ -1,8 +1,10 @@
+import Image from "next/image";
+
 const About = () =>{
 return(
     <div className="mb-12 max-w-3xl flex items-center justify-center grid grid-cols-2">
         <div>
-            <img src="images/artist.jpg" className="w-72 h-96"></img>
+            <Image src="/images/artist.png" width={300} height={500}/>
         </div>
         <div>
             <p className="text-fuchsia-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 

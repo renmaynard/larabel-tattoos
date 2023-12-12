@@ -4,7 +4,7 @@ import tattoos from './tattoo.json'
 const TattooList = () =>{
     return (
         <div className="mb-12 mt-12">
-            <ul className="grid grid-cols-5">
+            <ul className="flex items-center justify-center">
                 {tattoos.map((tattoo) =>(
                     <Tattoo
                         key={tattoo.id}
