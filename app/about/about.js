@@ -4,7 +4,7 @@ const About = () =>{
 return(
     <div className="mb-12 max-w-3xl flex items-center justify-center grid grid-cols-2">
         <div>
-            <Image src="/images/artist.png" width={300} height={500}/>
+            <Image src="images/artist.png" width={300} height={500}/>
         </div>
         <div>
             <p className="text-fuchsia-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
